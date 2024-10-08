@@ -11,3 +11,7 @@ To run the project, follow these steps:
     4. git lfs pull
 4. In your file browser, navigate to your Desktop, then to NatureProjectV2.2, then click on the file ending with .uproject to open the project.
 5. Connect your VR headset of choice to steamvr, and run in VR preview mode from Unreal Engine.
+
+The artithmetic stressor test is accessible here: https://github.com/NuiLab/Markus-Peters-Arithmetic-Test
+
+The document with the surveys we used is in this repo called 'Psychological Questionnaires.docx'
